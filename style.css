@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0 auto;
+  background-color: gray;
+  
+}
+.root{
+  background-color: white;
+}
+
+
+input[type="radio"]{
+    display: none;
+  }
+  input:checked + label{
+    background-color: rgb(202, 238, 72);
+  }
+  label{
+    border:solid 1px black
+  }

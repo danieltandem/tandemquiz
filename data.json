@@ -1,0 +1,239 @@
+{
+    "title":"10 Monumentos de Aranjuez",
+    "id_test":"",
+    "description": "Una pregunta de cada monumento importante de Aranjuez",
+    "author": "DanielTandem",
+    "img_feature":{
+        "url": "./img/plazaayutnamiento.jpg",
+        "alt": "Vista de la Plaza Mayor de Aranjuez"
+    },
+    "questions" : [[
+        {
+        "id": 1,
+        "question": "¿En qué siglo Felipe II mandó construir el Palacio Real?",
+        "answers":{
+            "a": "XV",
+            "b": "XVI",
+            "c": "XVII",
+            "d": "XIV"
+        },
+        "results":{
+            "a": false,
+            "b": true,
+            "c": false,
+            "d": false
+        },
+        "img_question":{
+            "url": "/img/pala1.jpg",
+            "alt": "Palacio Real de Aranjuez",
+            "desc": "Palacio Real de Aranjuez"
+        },
+        "hint": "Felipe II reinó entre el 16 de enero de 1556-13 de septiembre de 1598(42 años y 240 días)",
+        "curiosity": "Sabias que Felipe II tambien fue rey de Sicilia y Cerdeña?"
+    },
+    {
+        "id": 2,
+        "question": "Qué jardines conectan con el Palacio Real de Aranjuez?",
+        "answers":{
+            "a": "Jardín de la Isla y Jardín del Príncipe",
+            "b": "Jardín de Isabel II y Jardín del Parterre",
+            "c": "Jardín de Isabel II y Jardín del Príncipe",
+            "d": "Jardín del Rey y de la Reina"
+        },
+        "results":{
+            "a": false,
+            "b": false,
+            "c": false,
+            "d": true
+        },
+        "img_question":{
+            "url": "./img/reyyreina.jpg",
+            "alt": "Plano antiguo de los jardines reales",
+            "desc": "Plano antiguo de los jardines reales"
+        },
+        "hint": "Son familiares del principe",
+        "curiosity": "Sabias que el Palacio de Aranjuez conecta con ambos jardines?"
+    },
+    {
+        "id": 3,
+        "question": "De quién es la estatua situada en la Plaza de la Constitución?",
+        "answers":{
+            "a": "Alfonso XIII",
+            "b": "Alfonso XII",
+            "c": "FelIpe VI",
+            "d": "Francisco Franco"
+        },
+        "results":{
+            "a": false,
+            "b": true,
+            "c": false,
+            "d": false
+        },
+        "img_question":{
+            "url": "/img/AlfonsoXII.jpg",
+            "alt": "Figura de un rey de España",
+            "desc": "Estatua en la Plaza de la Constitucion"
+        },
+        "hint": "Fue el penultimo rey Alfonso",
+        "curiosity": "Sabes que Alfonso XII creo el hospital de Aranjuez"
+    },{
+        "id": 4,
+        "question": "Qué  se encuentra en la plaza de la Constitución junto al ayuntamiento de Aranjuez",
+        "answers":{
+            "a": "Mercado de Abastos",
+            "b": "Casa Cultural Isabel de Farnesio",
+            "c": "Casa de Oficios",
+            "d": "Corralas tipicas"
+        },
+        "results":{
+            "a": true,
+            "b": false,
+            "c": false,
+            "d": false
+        },
+        "img_question":{
+            "url": "/img/ayuntamiento.jpg",
+            "alt": "Ayuntamiento de Aranjuez",
+            "desc": "Ayuntamiento de Aranjuez"
+        },
+        "hint": "Es un sitio de compras muy transitado diariamente",
+        "curiosity": "Sabias que antes el mercado de Abastos se hacia al aire libre?"
+    },
+    {
+        "id": 5,
+        "question": "Por qué se construyeron las Corralas entre el siglo XVIII y XIX?",
+        "answers":{
+            "a": "Aumento de población",
+            "b": "Suplir el problema de la falta de vivienda de clase media-alta",
+            "c": "Para la explotación ganadera",
+            "d": "Para mis abuelos"
+        },
+        "results":{
+            "a": false,
+            "b": true,
+            "c": false,
+            "d": false
+        },
+        "img_question":{
+            "url": "/img/c3.jpg",
+            "alt": "Corrala de Aranjuez",
+            "desc": "Corrala de Aranjuez"
+        },
+        "hint": "Es b o c",
+        "curiosity": "Sabias que esta corrala actualmente es un hotel?"
+    },
+    {
+        "id": 6,
+        "question": "Originariamente a las Corralas se las conocía como Casas de corredor",
+        "answers":{
+            "a": "Casas colgantes",
+            "b": "Boliche",
+            "c": "Casas de corredor",
+            "d": "Viviendas compartidas"
+        },
+        "results":{
+            "a": false,
+            "b": false,
+            "c": true,
+            "d": false
+        },
+        "img_question":{
+            "url": "/img/c1.jpg",
+            "alt": "Patio de Corrala de Aranjuez",
+            "desc": "Patio de Corrala de Aranjuez"
+        },
+        "hint": "Su nombre se debe por el pasillo que tienen",
+        "curiosity": "El patio y el corredor eran los espacios donde se desarrollaba la vida comunitaria, tradicionalmente, por ser paso forzado para llegar a las viviendas y también por ser un lugar donde los vecinos compartían, el cuarto de baño, el lavadero, los postes para tender la ropa, la fuente etc."
+    },
+    {
+        "id": 7,
+        "question": "En qué año se construyó el Palacio de Medinaceli?",
+        "answers":{
+            "a": "1773",
+            "b": "1775",
+            "c": "1779",
+            "d": "1800"
+        },
+        "results":{
+            "a": true,
+            "b": false,
+            "c": false,
+            "d": false
+        },
+        "img_question":{
+            "url": "/img/medi.jpg",
+            "alt": "Exterior del Palacio de Medinaceli",
+            "desc": "Exterior del Palacio de Medinaceli"
+        },
+        "hint": "Fue entre 1770y y 1775",
+        "curiosity": "Sabias que tambien es conocido como Casa de Carmena."
+    },
+    {
+        "id": 8,
+        "question": "Qué estilo artístico tiene el Palacio de Medinaceli?",
+        "answers":{
+            "a": "Barroco",
+            "b": "Gotico",
+            "c": "Neoclasico",
+            "d": "Wuigi"
+        },
+        "results":{
+            "a": false,
+            "b": false,
+            "c": true,
+            "d": false
+        },
+        "img_question":{
+            "url": "/img/medi2.jpg",
+            "alt": "Interior del Palacio de Medinaceli",
+            "desc": "Interior del Palacio de Medinaceli"
+        },
+        "hint": "Fue entre 1770y y 1775",
+        "curiosity": "Sabias que hoy esta dividido en viviendas?"
+    },
+    {
+        "id": 9,
+        "question": "Qué diosa griega corona la fuente de Marinablanca?",
+        "answers":{
+            "a": "Artemisa",
+            "b": "Hera",
+            "c": "Venus",
+            "d": "Atenea"
+        },
+        "results":{
+            "a": false,
+            "b": false,
+            "c": true,
+            "d": false
+        },
+        "img_question":{
+            "url": "/img/fuente2.jpg",
+            "alt": "Fuente de Marinablanca",
+            "desc": "Fuente de Marinablanca"
+        },
+        "hint": "Es la diosa del Amor ",
+        "curiosity": "Esa fuente fue sustituida por una Venus del Jarro primero (en 1760) y posteriormente por la que vemos hoy que data de 1830 y fue realizada por González Velásquez."
+    },{
+        "id": 10,
+        "question": "A qué estilo arquitectónico pertenece la Plaza de San Antonio?",
+        "answers":{
+            "a": "Renacimiento",
+            "b": "Barroco",
+            "c": "Romanico",
+            "d": "Gotico"
+        },
+        "results":{
+            "a": false,
+            "b": true,
+            "c": false,
+            "d": false
+        },
+        "img_question":{
+            "url": "/img/sanan.jpg",
+            "alt": "Plaza de San Antonio",
+            "desc": "Plaza de San Antonio"
+        },
+        "hint": "Es b o c",
+        "curiosity": "Hacia 1752, la plaza tenía otra fuente llamada el fuente del Rey, obra de Juan Domingo Olivieri, con una imagen del rey Fernando VI mirando al puente, pero en 1760 el rey Carlos III, ordenó retirar la estatua"
+    }
+    ]]}
